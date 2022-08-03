@@ -3,13 +3,13 @@
 캐글 컴퍼티션에 도전하고 싶은 분들께 좋은 참고 자료가 되길 바랍니다!  
 
 ## #1. [Bike Sharing Demand: 자전거 수요 예측 프로젝트](https://github.com/suy379/Kaggle/tree/main/Bike_sharing_demand)  
-`[최종 목표] test 데이터의 대여량(count) 값을 예측하라!`  
-**문제: 회귀(Regression), 평가지표: RMSLE**/ [캐글 컴퍼티션 바로가기](https://www.kaggle.com/competitions/bike-sharing-demand)  
+- `[최종 목표] test 데이터의 대여량(count) 값을 예측하라!`  
+- **문제: 회귀(Regression), 평가지표: RMSLE** / [캐글 컴퍼티션 바로가기](https://www.kaggle.com/competitions/bike-sharing-demand)  
 
-**1. EDA **
-  - train data를 바탕으로 사용자들의 사용 패턴을 알아보았다.
-  - 수치형 변수(numerical data), 범주형 변수(categorical data)에 따라 시각화하였으며, target인 count와의 관계를 파악하였다.
-  - [train data EDA 포스팅](https://suy379.tistory.com/133)  
+**1. EDA** 
+- train data를 바탕으로 사용자들의 사용 패턴을 알아보았다.
+- 수치형 변수(numerical data), 범주형 변수(categorical data)에 따라 시각화하였으며, target인 count와의 관계를 파악하였다.
+- [train data EDA 포스팅](https://suy379.tistory.com/133)  
 
 **2. Machine Learning - Baseline model**
 - 아웃라이어 제거, 수치형 변수 scaling, target 변수 로그변환 등의 데이터 전처리
