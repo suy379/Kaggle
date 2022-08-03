@@ -2,6 +2,7 @@
 직접 해본 Kaggle(캐글) 프로젝트 노트북을 저장하는 공간입니다. 분석에 대한 설명은 블로그에 작성하고 있으니, 목차에 걸어둔 링크를 클릭하시면 됩니다 :)  
 캐글 컴퍼티션에 도전하고 싶은 분들께 좋은 참고 자료가 되길 바랍니다!  
 
+
 ## #1. [Bike Sharing Demand: 자전거 수요 예측 프로젝트](https://github.com/suy379/Kaggle/tree/main/Bike_sharing_demand)  
 - `[최종 목표] test 데이터의 대여량(count) 값을 예측하라!`  
 - **문제: 회귀(Regression), 평가지표: RMSLE** / [캐글 컴퍼티션 바로가기](https://www.kaggle.com/competitions/bike-sharing-demand)  
@@ -25,6 +26,7 @@
 
 **4. 최종 성능**
 - `Test RMSLE: 0.376 (약 100등)`  
+
 
 
 ## #2. [Categorical Feature Encoding: 범주형 데이터 분석 프로젝트](https://github.com/suy379/Kaggle/tree/main/Categorical_feature_encoding)  
