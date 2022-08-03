@@ -34,7 +34,7 @@
 - **문제: 분류(Classification), 평가지표: AUC score** / [캐글 컴퍼티션 바로가기](https://www.kaggle.com/competitions/cat-in-the-dat)  
 
 **1. EDA**
-- 주어진 모든 변수는 범주형 데이터이다. 범주형 데이터의 각 카테고리 비율을 가장 잘 보여줄 수 있는 bar plot 형태로 시각화
+- 주어진 모든 변수는 범주형 데이터. 범주형 데이터의 각 카테고리 비율을 가장 잘 보여줄 수 있는 bar plot 형태로 시각화
 - 범주형 변수와 target과의 관계 파악: 1의 값을 갖고 있는 비율 시각화
 - [EDA 포스팅](https://suy379.tistory.com/153)  
 
