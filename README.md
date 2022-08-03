@@ -2,8 +2,8 @@
 직접 해본 Kaggle(캐글) 프로젝트 노트북을 저장하는 공간  
 
 ## #1. [Bike Sharing Demand: 자전거 수요 예측 프로젝트](https://github.com/suy379/Kaggle/tree/main/Bike_sharing_demand)  
-`[최종 목표] test 데이터의 대여량(count) 값을 예측하라!` / [캐글 컴퍼티션 바로가기](https://www.kaggle.com/competitions/bike-sharing-demand/overview)  
-문제: 회귀(Regression), 평가지표: RMSLE  
+`[최종 목표] test 데이터의 대여량(count) 값을 예측하라!` / [캐글 컴퍼티션 바로가기](https://www.kaggle.com/competitions/bike-sharing-demand)  
+**문제: 회귀(Regression), 평가지표: RMSLE**  
 
 1. EDA 
 - train data를 바탕으로 사용자들의 사용 패턴을 알아보았다.
@@ -21,3 +21,9 @@
 - ver.3: 겹치는 변수인 month, season 중 `season` 선택
 - ver.4~5: 결측치가 많은 `windspeed` 변수 머신러닝을 활용해 채우기
 - [성능 개선 포스팅](https://suy379.tistory.com/141)
+
+## #2. [Categorical Feature Encoding: 범주형 데이터 분석 프로젝트](https://github.com/suy379/Kaggle/tree/main/Categorical_feature_encoding)  
+`[최종 목표] target 데이터의 0, 1 값을 예측하라!` / [캐글 컴퍼티션 바로가기](https://www.kaggle.com/competitions/cat-in-the-dat)  
+**문제: 분류(Classification), 평가지표: AUC score**  
+
+1. EDA
