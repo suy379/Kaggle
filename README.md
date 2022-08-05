@@ -41,10 +41,12 @@
 **2. Machine Learning - Baseline model**
 - 머신러닝을 위해, 각 범주형 변수에 알맞은 형태로 인코딩(Encoding)
 - 기본 모델: 로지스틱 회귀(Logistic Regression)  
+- [베이스라인 모델링 포스팅](https://suy379.tistory.com/157)  
 
 **3. Machine Learning - 성능 개선**
 - ver.1: 명목형 변수(nom_*)의 개수 조정
-- ver.2~3: 로지스틱 회귀의 하이퍼 파라미터 튜닝  
+- ver.2~3: 로지스틱 회귀의 하이퍼 파라미터 튜닝 
+- [성능 개선 포스팅](https://suy379.tistory.com/158)
 
 **4. 최종 성능**
 - `Test AUC: 0.80846 (public) / 0.80281 (private) (3등)`  
